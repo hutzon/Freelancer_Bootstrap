@@ -266,7 +266,7 @@
     padding-right: 15rem;
     margin-bottom: 0;
     height: 5rem;
-    background-image: linear-gradient(to top, var(--gris-claro) 0%, var(--blanco) 100%);
+    /*background-image: linear-gradient(to top, var(--gris-claro) 0%, var(--blanco) 100%);*/
 }
 
 
